@@ -8,7 +8,9 @@
     --slate-900: hsl(218, 44%, 22%);
 }
 
-
+body {
+    background-color: var(--slate-300);
+}
 .attribution { 
     font-size: 11px; text-align: center; 
 }
