@@ -49,10 +49,6 @@ body {
     height: 288px;
 }
 
-p {
-    margin: 0px;    
-}
-
 .text {
     padding: 0px 16px 0px 16px;
     max-width: 288px;
